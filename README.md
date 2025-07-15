@@ -8,7 +8,8 @@ A simple and responsive e-commerce website built using **React**. This project d
 
 ## 📸 Screenshots
 
-![App Screenshot](./relative-path-to-screenshot.png)
+<img width="1895" height="986" alt="Screenshot 2025-07-15 212921" src="https://github.com/user-attachments/assets/bd509e55-6c12-4c38-a161-6784e55a37fc" />
+
 
 ---
 
