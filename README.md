@@ -1,12 +1,59 @@
-# React + Vite
+# 🛒 React Static E-Commerce UI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and responsive e-commerce website built using **React**. This project displays a list of products with details such as category, price, rating, and offers. Users can filter products by price and view the cart icon (static) with a notification badge.
 
-Currently, two official plugins are available:
+🔗 **Live Demo:** [react1-nishants-projects-62886077.vercel.app](https://react1-nishants-projects-62886077.vercel.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 📸 Screenshots
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![App Screenshot](./relative-path-to-screenshot.png)
+
+---
+
+## 🚀 Features
+
+- 💄 Clean and modern UI using **Tailwind CSS**
+- 📦 Static product data rendered dynamically
+- 🛍️ Categories, offers, ratings, and price details
+- 🔍 Price filter functionality
+- 🛒 Cart icon with a badge
+- ⚙️ Fully responsive design
+
+---
+
+
+## 🛠️ Tech Stack
+
+- **React** – JavaScript UI Library
+- **Tailwind CSS** – Utility-first CSS framework
+- **Vite** – Fast React dev server (optional)
+- **Vercel** – Deployment platform
+
+---
+
+## 📦 Installation
+
+bash
+# Clone the repository
+git clone https://github.com/nishant95086/react1.git
+
+# Navigate to the project folder
+cd react1
+
+# Install dependencies
+npm install
+
+# Run the app
+npm run dev
+
+
+
+---
+
+If you'd like help customizing this further (e.g., add your name, custom screenshot, or specific component explanation), feel free to ask!
+
+
+
+
